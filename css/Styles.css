@@ -1,5 +1,5 @@
 .jumbotron{
-  background-image: url('../images/P.T.jfif');
+  background-image: url('../images/P.T.jfif');  
 }
 
 h1{color: red;}
@@ -7,4 +7,8 @@ body{
   background-color: black;
   color: white;
   font-family: papyrus, sans-serif;
+}
+
+.btn-danger {
+  background-color: danger;
 }
